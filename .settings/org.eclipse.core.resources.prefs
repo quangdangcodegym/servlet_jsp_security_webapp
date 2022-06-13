@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/main/java/org/o7planning/securitywebapp/config/SecurityConfig.java=UTF-8
+encoding//src/main/java/org/o7planning/securitywebapp/filter/SecurityFilter.java=UTF-8
+encoding//src/main/java/org/o7planning/securitywebapp/servlet/LoginServlet.java=UTF-8
+encoding//src/main/java/org/o7planning/securitywebapp/utils/AppUtils.java=UTF-8
+encoding//src/main/java/org/o7planning/securitywebapp/utils/DataDAO.java=UTF-8
+encoding//src/main/java/org/o7planning/securitywebapp/utils/SecurityUtils.java=UTF-8
